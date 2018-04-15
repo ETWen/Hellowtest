@@ -1,3 +1,0 @@
-print ("Hellow World")
-print ("Fly")
-print ("Hi")
